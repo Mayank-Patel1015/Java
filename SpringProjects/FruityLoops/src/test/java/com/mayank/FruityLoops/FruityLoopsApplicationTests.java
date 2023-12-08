@@ -1,10 +1,10 @@
-package com.mayank.hello;
+package com.mayank.FruityLoops;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HelloWorld2ApplicationTests {
+class FruityLoopsApplicationTests {
 
 	@Test
 	void contextLoads() {

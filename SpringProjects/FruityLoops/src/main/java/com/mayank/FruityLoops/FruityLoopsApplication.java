@@ -1,13 +1,13 @@
-package com.mayank.hello;
+package com.mayank.FruityLoops;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HelloWorld2Application {
+public class FruityLoopsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HelloWorld2Application.class, args);
+		SpringApplication.run(FruityLoopsApplication.class, args);
 	}
 
 }
