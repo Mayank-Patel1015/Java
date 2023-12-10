@@ -1,5 +1,5 @@
 # Java
-Java learning folder
+Java and Spring learning folder
 
 ## Fruity Loops
 ### A Spring Maven web app using JSP files for dynamic rendering.
